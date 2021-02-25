@@ -36,14 +36,14 @@ GNU General Public License v3.0
 
 | 配置 		| CPU             | 内存 	| 系统 			| 硬盘大小 	| Java      |
 |:--- 		|:---             |:---     |:---           |:---       |:---       |
-| 当前配置 	| BCM2711         | 4G      | Ubuntu 19.10  | 500 HHD  | Java 11   |
-| 最低配置 	| ARMv7 Processor rev 5  | 64M      | Linux~  | 64M HHD  | Java 11   |
+| 当前配置 	| BCM2711         | 4G      | Ubuntu 19.10  | 500 HDD  | Java 11   |
+| 最低配置 	| ARMv7 Processor rev 5  | 64M      | Linux~  | 64M HDD  | Java 11   |
 
 ## 构建配置
 
 | 配置 		| CPU             | 内存 	| 系统 			| 硬盘大小 	| Java      | Gradle    |
 |:--- 		|:---             |:--- 	|:--- 			|:---      	|:---       |:---       |
-| 当前配置 	| BCM2711         | 4G 		| Ubuntu 19.10 	| 500G HHD 	| Java 11    | 6.2.2     |
+| 当前配置 	| BCM2711         | 4G 		| Ubuntu 19.10 	| 500G HDD 	| Java 11    | 6.2.2     |
 
 ## 服务器命令列表
 | 命令 					 | 参数 																						 | 信息 									 |
